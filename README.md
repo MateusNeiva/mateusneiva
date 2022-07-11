@@ -1,4 +1,4 @@
-<img align="right" width="200px" alt="GIF" src="https://raw.githubusercontent.com/mateusneiva/mateusneiva/master/assets/sonic.gif" />
+<img align="right" width="200" height="180" alt="GIF" src="https://raw.githubusercontent.com/mateusneiva/mateusneiva/master/assets/sonic.gif" />
 
 ## 👋 Hi there! I'm Mateus.
 
