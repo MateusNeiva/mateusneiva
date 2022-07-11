@@ -1,8 +1,8 @@
-## Hi there, I'm Mateus 👋
+## 👋 Hi there! I'm Mateus.
 
-- Front-end developer
-- Always looking to improve and learn more.
-- Currently studying English.
+- 👨‍💻 Front-end developer
+- 📖 Always looking to improve and learn more.
+- 🌎 Currently studying English.
 
 ## 🛠 Some technologies I use
 
