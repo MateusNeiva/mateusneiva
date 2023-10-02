@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Mateus.
 
-- 👨‍💻 Front-end developer
+- 👨‍💻 Web developer
 - 📖 Always looking to improve and learn more.
 - 🌎 Currently studying English.
 
