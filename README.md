@@ -14,6 +14,6 @@
 
 ## 💬 Feel free to send me an email
 
-[![Mail Badge](https://img.shields.io/badge/-mateusneiva.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateus.fneiva@gmail.com.com)](mailto:mateus.fneiva@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mateus.fneiva@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateus.fneiva@gmail.com.com)](mailto:mateus.fneiva@gmail.com)
 
 <h4 align="center">Thanks for Visiting!</h4>
