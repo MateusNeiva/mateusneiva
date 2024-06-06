@@ -13,5 +13,5 @@
 
 ## Feel free to send me an email
 
-![Mail Badge](https://img.shields.io/badge/-mateus.fneiva%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=%23ffffff&logoSize=20&color=%23c14438&link=mailto%3Amateus.fneiva%40gmail.com) ![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Neiva-3b82f6?style=flat-square&logo=linkedin&logoColor=%23ffffff&logoSize=20&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateusfneiva%2F) 
+[![Mail Badge](https://img.shields.io/badge/-mateus.fneiva%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=%23ffffff&logoSize=20&color=%23c14438&link=mailto%3Amateus.fneiva%40gmail.com)](mailto:mateus.fneiva@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Neiva-3b82f6?style=flat-square&logo=linkedin&logoColor=%23ffffff&logoSize=20&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateusfneiva%2F)](https://www.linkedin.com/in/mateusfneiva/)
 
