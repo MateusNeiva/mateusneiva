@@ -7,9 +7,9 @@
 
 ## Some technologies I use
 
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat-square&logo=Vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat-square&logo=Vue.js)
 
 ## Feel free to send me an email
 
